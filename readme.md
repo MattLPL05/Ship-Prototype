@@ -6,8 +6,7 @@ This build doesn't have much, as it's more of a test. It contains:
 - ship interacting with wind
 
 Video:
-
-[![Watch demo](./Shipimg.png)](./ShipGif.mp4)
+https://github.com/MattLPL05/Ship-Prototype/blob/main/ShipGif.mp4
 
 Picture(s):
 
