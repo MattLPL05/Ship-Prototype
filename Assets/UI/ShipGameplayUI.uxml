@@ -1,0 +1,4 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:Label text="" name="SailOpen" style="height: 24px; width: 341px; -unity-text-align: upper-left; text-overflow: clip; color: rgb(255, 255, 255);"/>
+    <ui:Label text="" name="SailRotor" style="height: 24px; width: 341px; -unity-text-align: upper-left; text-overflow: clip; color: rgb(255, 255, 255);"/>
+</ui:UXML>
