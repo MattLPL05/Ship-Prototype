@@ -1,1 +1,8 @@
-a
+Welcome to the ship Prototype!
+
+This build doesn't have much, as it's more of a test. It contains:
+- a sail ship that can move around using WASD
+- a randomly changing wind direction random amount from 30 seconds to 5 minutes
+- ship interacting with wind
+
+![til](./shipimg)
